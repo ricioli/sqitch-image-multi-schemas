@@ -1,0 +1,1 @@
+# sqitch-image-multi-schemas
