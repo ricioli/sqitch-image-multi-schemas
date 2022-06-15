@@ -9,6 +9,8 @@ export SQITCH_IMAGE=ricioli/sqitch:latest
 
 source ~/.bashrc
 
+sqitch status --set schema=schema_name --registry schema_name
+
 ```
 Link para a página do
 [sqitch](https://sqitch.org)
